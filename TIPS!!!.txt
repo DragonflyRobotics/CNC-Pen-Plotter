@@ -1,0 +1,10 @@
+Gcode Extension only works with Inkscape 0.48.5
+Put extension in exe location/share/extensions
+While closing Inkscape, it will tell to save as svg. Don't mind.
+Test gcode with ncviewer.com
+
+2 DVD drives
+Mega
+H-bridges
+
+https://www.instructables.com/id/Arduino-Mini-CNC-Plotter-Machine-from-dvd-drives/
